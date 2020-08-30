@@ -34,6 +34,6 @@ deploy:
     token: $GITHUB_TOKEN
     keep_history: true
     local_dir: ./dist/
-    target_branch: develop
+    target_branch: master
     on:
-      branch: master
+      branch: develop
