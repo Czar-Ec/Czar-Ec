@@ -26,7 +26,7 @@ before_script:
 
 script:
 - yarn build:prod
-- cp ./src/app/assets/README.md ./dist
+- cp ./src/assets/README.md ./dist
 
 deploy:
   - provider: pages
