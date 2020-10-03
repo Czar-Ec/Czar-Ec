@@ -1,6 +1,8 @@
-<div style="width:100%">
-  <img src="assets/crescent.svg" style="max-height:300px;width:100%;margin:0 auto">
+<div style="width:100%" align="center">
+  <img src="assets/crescent.svg" style="max-height:500px;min-height:300px;width:100%margin:0 auto;height:100%">
 </div>
-<div style="width:100%;text-align:center">
-  # [czar-ec.github.io](https://czar-ec.github.io/)
+<div align="center">
+
+  # [CzarEc Portfolio](https://czar-ec.github.io/)
+
 </div>
